@@ -1,0 +1,13 @@
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\netcoreapp3.1\FactoryExercise.exe
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\netcoreapp3.1\FactoryExercise.deps.json
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\netcoreapp3.1\FactoryExercise.runtimeconfig.json
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\netcoreapp3.1\FactoryExercise.runtimeconfig.dev.json
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\netcoreapp3.1\FactoryExercise.dll
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\netcoreapp3.1\FactoryExercise.pdb
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\netcoreapp3.1\FactoryExercise.csprojAssemblyReference.cache
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\netcoreapp3.1\FactoryExercise.AssemblyInfoInputs.cache
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\netcoreapp3.1\FactoryExercise.AssemblyInfo.cs
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\netcoreapp3.1\FactoryExercise.csproj.CoreCompileInputs.cache
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\netcoreapp3.1\FactoryExercise.dll
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\netcoreapp3.1\FactoryExercise.pdb
+C:\Users\mphar\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\netcoreapp3.1\FactoryExercise.genruntimeconfig.cache
