@@ -10,7 +10,13 @@ namespace FactoryExercise
 
             string wheelCount = Console.ReadLine();
 
-            VehicleFactory.GetVehicle(wheelCount);
+            
+            // var car = VehicleFactory.GetVehicle(wheelCount);
+            
+
+            // var motorcycle = VehicleFactory.GetVehicle(wheelCount);
+
+
         }
     }
 }

@@ -10,5 +10,10 @@ namespace FactoryExercise
         {
             Console.WriteLine("Motorcycles Rule!");
         }
+        public Motorcycle()
+        {
+
+        }
+        public string Bike { get; set; } = "Motorcycles Rule!!";
     }
 }
